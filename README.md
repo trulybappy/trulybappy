@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trulybappy
+- 👋 Hi, I’m Nazmul (Bappy)
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Web
